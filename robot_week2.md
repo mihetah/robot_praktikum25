@@ -52,11 +52,11 @@ Die Strategie soll **schriftlich ausformuliert** werden (1 kurze Seite oder Foli
 **Aufgabe:**
 Erstelle eine **kleine Präsentation (ca. 5 Folien)** mit folgenden Inhalten:
 
-**Folie 1:** Name deines Roboters + kurze Einführung  
-**Folie 2:** Strategie: Bewegung, Angriff, Reaktionen  
-**Folie 3:** Besondere Methoden im Code (ausgewählter Codeausschnitt mit Erklärung)  
-**Folie 4:** Test-Ergebnisse: Gegen wen getestet, was hat funktioniert?  
-**Folie 5:** Resümee zum Praktikum:
+- Name deines Roboters + kurze Einführung  
+- Strategie: Bewegung, Angriff, Reaktionen  
+- Besondere Methoden im Code (ausgewählter Codeausschnitt mit Erklärung)  
+- Test-Ergebnisse: Gegen wen getestet, was hat funktioniert?  
+- Resümee zum Praktikum:
   - Was hast du über Java gelernt?
   - Wie war der Einstieg über RoboCode?
   - Was war einfach, was schwer?
